@@ -49,6 +49,6 @@ git push	내 컴퓨터 내용을 GitHub에 올리기	commit 후
 3. Model (모델)
 - 어떤 Claude를 쓸지 선택:
 - 모델	특징
--- claude-opus-4-8 : 가장 강력, 복잡한 작업
--- claude-sonnet-4-6 : 속도+성능 균형, 일반 용도
--- claude-haiku-4-5 : 빠르고 저렴, 간단한 작업
+ * claude-opus-4-8 : 가장 강력, 복잡한 작업
+ * claude-sonnet-4-6 : 속도+성능 균형, 일반 용도
+ * claude-haiku-4-5 : 빠르고 저렴, 간단한 작업
